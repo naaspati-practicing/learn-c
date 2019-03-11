@@ -3,6 +3,7 @@ yarn.lock
 *.jar
 *.exe
 
+**/Debug/
 **/bin/
 **/build/
 **/node_modules/
